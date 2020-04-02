@@ -1,17 +1,16 @@
 {
-  "name": "CW_RGB2Hex",
+  "name": "Permutations.js",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "Permutations.js",
   "scripts": {
     "test": "jest --watchAll",
-    "start": "nodemon 4-SumByFactors/sumOfDivided.js"
+    "start": "nodemon /4-Permutations/Permutations.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^6.8.0",
     "jest": "^25.1.0",
     "nodemon": "^2.0.2"
   }
